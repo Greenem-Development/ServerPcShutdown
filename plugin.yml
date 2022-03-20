@@ -1,0 +1,7 @@
+name: ShutdownPlugin
+main: me.greenem.Shutdown.MainShutdownFile
+version: 1.0
+api-version: 1.17
+commands:
+   shutdown:
+      permission: TestPlugin.basic
